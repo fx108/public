@@ -49,7 +49,7 @@
       kind: OptionKind.VIEWER + OptionKind.PREFERENCE
     },
     defaultUrl: {
-      value: "test.pdf",
+      value: "https://cdn.jsdelivr.net/gh//fx108/public/fixed-xe-bus.pdf",
       kind: OptionKind.VIEWER
     },
     defaultZoomValue: {
